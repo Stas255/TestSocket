@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 90%;
+    width: 99%;
+}
+
+body {
+    margin: 5px;
+    height: 100%;
+}
+
+#chatroom {
+    border: 3px solid black;
+    height: 85%;
+    overflow: auto;
+}
+
+#input_zone {
+    height: 7%;
+    text-align: center;
+}
+
+.vertical-align {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#message {
+    display: inline-block;
+    width: 89%;
+    height: 80%;
+    font-size: 2vh;
+}
+
+#send_message {
+    display: inline-block;
+    height: 80%;
+    width: 10%;
+}
+
+.message {
+    padding: 10px;
+    margin: 12px;
+    width: 95%;
+    line-height: 40px;
+    font-size: 35px;
+}
