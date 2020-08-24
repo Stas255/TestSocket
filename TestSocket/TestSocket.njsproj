@@ -31,6 +31,9 @@
     <Content Include="package.json" />
     <Content Include="public\chat.css" />
     <Content Include="public\chat.js" />
+    <Content Include="public\jquery.min.jsx">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="README.md" />
     <Content Include="server.js" />
     <Content Include="views\index.hbs" />

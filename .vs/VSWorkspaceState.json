@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestSocket"
   ],
+  "SelectedNode": "\\TestSocket\\TestSocket.sln",
   "PreviewInSolutionExplorer": false
 }

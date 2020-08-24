@@ -1,3 +1,6 @@
 C:\Users\lenovo\source\repos\Stas255\TestSocket\TestSocket\obj\Debug\TestSocket.njsprojAssemblyReference.cache
 C:\Users\lenovo\source\repos\Stas255\TestSocket\TestSocket\obj\Debug\TestSocket.njsproj.CoreCompileInputs.cache
 C:\Users\lenovo\source\repos\Stas255\TestSocket\TestSocket\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\stast\Source\Repos\Stas255\TestSocket\TestSocket\obj\Debug\TestSocket.njsprojAssemblyReference.cache
+C:\Users\stast\Source\Repos\Stas255\TestSocket\TestSocket\obj\Debug\TestSocket.njsproj.CoreCompileInputs.cache
+C:\Users\stast\Source\Repos\Stas255\TestSocket\TestSocket\bin\Microsoft.NodejsTools.WebRole.dll

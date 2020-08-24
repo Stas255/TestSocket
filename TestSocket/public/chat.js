@@ -11,7 +11,7 @@ $(function () {
     
     socket.on("print_message", data => {
         message.val("");
-        chatroom.append("<div class='message" + data.message + "</div>");
+        chatroom.append("<div class='message'>" + data.message + "</div>");
     });
 
 });
